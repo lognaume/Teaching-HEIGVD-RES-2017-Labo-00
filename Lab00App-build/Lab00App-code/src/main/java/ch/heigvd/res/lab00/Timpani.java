@@ -11,7 +11,7 @@ package ch.heigvd.res.lab00;
  */
 public class Timpani implements IInstruments {
     private sound = "doom";
-    private volume = 10;
+    private volume = 11;
     
     public String play(){
         return sound;
